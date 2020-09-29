@@ -1,5 +1,4 @@
 # hello-world
-my first repository, a test
+This is a project from my Object-Oriented Programming class
 
-Wisdom Nolitse here. I am a computer science major, rising junior at 
-Truman State University.
+The project implements a simple calculator that implements the four basic operations of addition, substraction, multiplication, division, as well as reset(AC), deletion, and square root.
